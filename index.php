@@ -1,1 +1,2 @@
-hello
+<?php
+echo 'Hello 2';
